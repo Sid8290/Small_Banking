@@ -119,9 +119,8 @@ Rollback occurs on any failure.
 
 ## 👨‍💻 Author
 
-**Bhumil Shah**  
-• [GitHub](https://github.com/bhumilshah26) • [LinkedIn](https://linkedin.com/in/bhumilshah26)
+**Siddharth Jain**  
 
 ---
 
-Banking System # Small_Banking
+Small_Banking
